@@ -1,0 +1,69 @@
+/* general */
+
+html{
+    background-color: maroon;
+}
+
+body{
+    margin: 48px; background-color:orangered;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 36px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+p, ul, ol{
+    font-size: 24px;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:active{
+    color: brown;
+}
+
+.butt{
+    text-align: center;
+    margin: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+h1, h2{
+    color: white;
+    background-color: black;
+}
+
+/* main page */
+
+.title{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.title-d{
+    text-align: center;
+}
+
+.linklist p, a:link, a:visited{
+    font-size: 24px;
+    text-align: center;
+    color: black;
+}
